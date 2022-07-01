@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{07A304BD-528B-4125-AFDC-B6960E70F0B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C4719D19-D0C7-43E9-AC3A-54E41CF7C00E}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\Smartmodifier.cs = ..\..\..\Desktop\Smartmodifier.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07A304BD-528B-4125-AFDC-B6960E70F0B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A304BD-528B-4125-AFDC-B6960E70F0B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A304BD-528B-4125-AFDC-B6960E70F0B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A304BD-528B-4125-AFDC-B6960E70F0B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96BAFF62-E3CB-4837-A84B-87F1F5B9897C}
+	EndGlobalSection
+EndGlobal
